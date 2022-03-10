@@ -1,2 +1,2 @@
-# calculator.github.io
+# calculator
 Calculator - Using HTML, CSS, Jscript
